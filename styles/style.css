@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+    color:white;
+    font-family:"Lucida Handwriting",cursive;    
+}
+.menu{
+    background-color: red;
+    color: yellow;
+    padding: 20px 12px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+}
+.heading{
+    font-weight: bold;
+    font-size:45px;
+    text-align: center;
+}
+.bio{
+    font-size: 35px;
+}
+.bio.content,em,strong,li,ol,ul{
+    font-size: 25px;
+    text-align: justify;
+    background-color: snow;
+    color: black;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
